@@ -1,5 +1,8 @@
 # Getting Started with clone
 Clone and test
+For Login page
+username: admin;
+password: 12345678;
 
 ### `npm start`
 
