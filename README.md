@@ -1,7 +1,7 @@
 # Getting Started with clone or use demo
-https://crud-app-67cdf.web.app
-Clone and test
-For Login page
+https://crud-app-67cdf.web.app  ;
+
+For Login page;
 username: admin;
 password: 12345678;
 
